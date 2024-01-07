@@ -1,0 +1,1 @@
+In this folder the nginx server configuration file is stored so that our odoo works behind a reverse proxy
